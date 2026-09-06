@@ -36,18 +36,13 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=humairasadiqua07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=humairasadiqua07&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=humairasadiqua07&show_icons=true&theme=radical&hide_border=true" alt="My GitHub Statistics" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=humairasadiqua07&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://gh-heat.anishroy.com/api/humairasadiqua07/svg?colors=ffe4e6,f9a8d4,ec4899,c026d3,86198f" alt="GitHub Contribution Graph">
-</p>
+
