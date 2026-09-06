@@ -1,3 +1,5 @@
+![GitHub Background](https://github.com/humairasadiqua07/humairasadiqua07/blob/main/github-background.png)
+
 <h1 align="center">Hi 👋, I'm Syeda Humaira Sadiqua</h1>
 <h3 align="center">🤖 AI & GenAI | 🐍 Python | 🌐 Web Development | ✨ Prompt Engineering | 🎓 1st Year B.Tech Student | 💡 Learning • Building • Creating 🚀</h3>
 
